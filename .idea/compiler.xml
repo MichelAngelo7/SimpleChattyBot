@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-classes-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-reports-tests.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-test-results.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-build-tmp.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task-out.main" target="11" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-The_forgotten_comments.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Comments-What_comments_are_not_used_in_the_program.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-A_correct_example.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Determine_the_output.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Healthy_sleep.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-The_army_of_units.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-The_condition_to_travel_around_the_world.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Conditional_statement-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Increment_and_decrement-Decrement_all.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Increment_and_decrement-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Increment_and_decrement-What_is_the_result.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Increment_and_decrement-What_is_the_result__1_.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Calculate_the_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Desks.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Good_rest_on_vacation.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Squirrels_and_nuts.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Tens_digit.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Integer_types_and_operations-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Hello.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Introduction_to_Java-WORA.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-First,_second,_third.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Stars.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-The_result_of_a_Tic-Tac-Toe_game.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Printing_data-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Determine_the_result.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Possible_values_of_a_variable.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String-Check_burgs.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String-Comparing_strings.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String-Extracting_a_character.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String-Find_true_expressions.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-String-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Grades.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Statements.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-The_for-loop-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Types_and_variables-Animal.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Types_and_variables-Fill_the_declaration.main" target="11" />
+      <module name="Simple_Chatty_Bot.Topics-Types_and_variables-Theory.main" target="11" />
+      <module name="Simple_Chatty_Bot.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
